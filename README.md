@@ -1,6 +1,6 @@
-# video-meeting-manager
+# WMS
 
-> Kedacom Video Meeting Management System
+> Web based Multimedia Subsystem
 
 ## Build Setup
 
